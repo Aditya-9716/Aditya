@@ -1,2 +1,2 @@
 # Aditya
-This is my first Fit Repository
+This is my first Git Repository
